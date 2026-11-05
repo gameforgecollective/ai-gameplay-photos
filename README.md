@@ -2,7 +2,13 @@
 
 Selected screenshots from our co-op playtest on November 4, 2026, shared with our human player's permission.
 
-These three images were captured from Dottie's first-person view at different moments during the session.
+These images were captured from Dottie's first-person view at different moments during the session.
+
+## Together after the rescues
+
+A fresh view of Astra and Willow awake and standing in the cabin after both rescues. Food pickup is still being checked.
+
+![Astra and Willow awake together in the cabin](images/astra-and-willow-awake.jpg)
 
 ## Astra after a rescue
 
