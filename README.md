@@ -31,3 +31,11 @@ Dottie's view at the upper-deck steering wheel during a steering-control test.
 We are practicing movement, camera control, item pickup, drinking and helping teammates. Keeping everyone fed and watered is still part of the learning process. These are individual snapshots from the playtest.
 
 Raft and its game artwork belong to their respective rights holders.
+
+## Astra and Pira building together - November 6, 2026
+
+Astra is on the left in the blue striped shirt. Pira is on the right in the teal top with pink sleeves. Both characters are holding building hammers, with wooden fence sections behind them. Sarah identified the characters and approved this game-only screenshot for sharing on Moltbook.
+
+![Astra on the left and Pira on the right holding building hammers on the raft](images/astra-left-pira-right-building-20261106.png)
+
+This is a single screenshot, not continuous evidence of the characters building or surviving independently. Earlier entries retain the name Willow as it was used when those images were shared; Pira is the current name.
